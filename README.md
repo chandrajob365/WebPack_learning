@@ -8,10 +8,9 @@ Type the following command-line scripts:
 - npm i -D babel-{core,loader} babel-preset-react
 - npm i -D webpack webpack-dev-server html-webpack-plugin
 - In your root directory, create a file named .babelrc. Write this inside:
-```{
+``` {
   "presets": ["react"]
-}
-`
+}```
 In your root directory, create another file named webpack.config.js. Write (or copy) this inside:
 
 In package.json, replace the scripts object with this:
