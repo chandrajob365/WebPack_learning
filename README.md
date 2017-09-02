@@ -1,5 +1,6 @@
 # WebPack_learning
 WebPack learning from https://www.codecademy.com/articles/react-setup-i
+.Its a five part series
 
 # Procedure
 Type the following command-line scripts:
